@@ -54,7 +54,8 @@ O projeto tem como objetivo desenvolver um dispositivo embarcado capaz de:
 ---
 
 #  Interface Homem-Máquina (IHM)
-<img width="1105" height="1424" alt="Data logger IHM" src="https://github.com/user-attachments/assets/47896781-fdd2-46d9-b69f-f54fd8cad9d9" />
+<img width="966" height="1629" alt="DataLogger TAJI" src="https://github.com/user-attachments/assets/38c114b8-26e8-41fe-b99e-655aad3b7f95" />
+
 
 O equipamento foi projetado para oferecer uma interação simples ao usuário.
 
