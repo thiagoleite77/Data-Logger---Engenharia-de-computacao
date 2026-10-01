@@ -156,13 +156,15 @@ O projeto foi concebido para monitoramento ambiental em ambientes controlados, p
 - EEPROM
 - Git
 - GitHub
+- AutoDesk Inventor
+- impressão 3D
 
 ---
 
 # 👨‍💻 Equipe
 
 - **Thiago Leite de Souza**
-- **Andreo Sampaio**
+- **Andreo Sampaio** 
 - **João Paulo**
 - **Ítalo Silva**
 
