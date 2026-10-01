@@ -16,6 +16,13 @@ Além da visualização instantânea das medições, o sistema registra os dados
 O projeto também incorpora mecanismos de alerta visual e sonoro para indicar quando os parâmetros monitorados ultrapassam os limites estabelecidos, tornando-o uma solução simples, intuitiva e eficiente para aplicações de monitoramento ambiental.
 
 
+
+A carcaça foi projetada no AutoDesk Inventor, afim de garantir as medições corretas, para impressão 3D com material polimérico PLA.
+
+<img width="1917" height="1026" alt="MODELAGEM 3D" src="https://github.com/user-attachments/assets/52fd4abb-dbfd-424a-b6f1-c033deebfa5d" />
+
+
+
 ---
 
 #  Objetivos
@@ -90,7 +97,7 @@ Indica situação de alerta.
 
 ---
 
-### 🔊 Buzzer
+###  Buzzer
 
 Complementa os alertas visuais emitindo sinais sonoros quando ocorre alguma condição crítica.
 
@@ -106,7 +113,7 @@ Complementa os alertas visuais emitindo sinais sonoros quando ocorre alguma cond
 
 ---
 
-# 🧩 Componentes Utilizados
+#  Componentes Utilizados
 
 - Arduino Uno R3 (ATmega328P)
 - Display LCD 16x2 I2C
@@ -124,7 +131,7 @@ Complementa os alertas visuais emitindo sinais sonoros quando ocorre alguma cond
 
 ---
 
-# 🌎 Aplicação
+#  Aplicação
 
 O projeto foi concebido para monitoramento ambiental em ambientes controlados, podendo ser utilizado como base para aplicações em:
 
