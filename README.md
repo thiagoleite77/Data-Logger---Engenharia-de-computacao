@@ -108,7 +108,7 @@ Complementa os alertas visuais emitindo sinais sonoros quando ocorre alguma cond
 
 | Variável | Faixa de Operação |
 |-----------|-------------------|
-| Temperatura | **15°C < T < 25°C** |
+| Temperatura | **15°C < T < 30°C** |
 | Umidade Relativa | **10% < U < 50%** |
 | Luminosidade | **70% < L < 100%** |
 
